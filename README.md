@@ -1,4 +1,4 @@
-# mapstest
+# maps demo
 
 A new Flutter application.
 
